@@ -1,0 +1,2 @@
+# at89c_usb_programmer_on_arduino
+Простой usb программатор для микроконтроллеров AT89Cx051/AT89C5x
